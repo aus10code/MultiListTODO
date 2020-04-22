@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.TodoList {
+  width: 500px;
+  border: 2px;
+  margin: auto;
+  padding: 40px;
+  text-align: left;
+  border-style: double;
+}
+
+.Crossthrough {
+  text-decoration: line-through;
+  color: rgba(165, 165, 165, 0.993);
+}
