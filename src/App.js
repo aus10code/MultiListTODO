@@ -4,8 +4,6 @@ import Header from "./Components/Header";
 import Todo from "./Components/Todo";
 import TodoList from "./Components/TodoList";
 
-test
-
 function App() {
   return (
     <div className="">
